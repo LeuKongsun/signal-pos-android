@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Iced Cappuccino",
+    "file": "Signal Café Iced Cappuccino.png",
+    "slugs": [
+      "iced-cappuccino"
+    ]
+  },
+  {
+    "name": "Coffee Egg",
+    "file": "Signal Café Egg Cream Iced Coffee.png",
+    "slugs": [
+      "coffee-egg"
+    ]
+  },
+  {
+    "name": "Coffee Salt",
+    "file": "Iced Coffee with Salted Foam.png",
+    "slugs": [
+      "coffee-salt"
+    ]
+  },
+  {
+    "name": "Jasmine Cream",
+    "file": "Jasmine Cream Iced Tea with Blossoms.png",
+    "slugs": [
+      "jasmine-cream"
+    ]
+  },
+  {
+    "name": "Passion Cream",
+    "file": "Passion Fruit Cream Café Drink.png",
+    "slugs": [
+      "passion-cream"
+    ]
+  },
+  {
+    "name": "Mocha Frappe",
+    "file": "Mocha frappé with whipped cream.png",
+    "slugs": [
+      "mocha-frappe"
+    ]
+  },
+  {
+    "name": "Coffee Frappe",
+    "file": "Signal Café Caramel Frappe copy.png",
+    "slugs": [
+      "coffee-frappe"
+    ]
+  },
+  {
+    "name": "Hot Americano",
+    "file": "Signal Café Americano with Coffee Beans.png",
+    "slugs": [
+      "americano",
+      "hot-americano"
+    ]
+  },
+  {
+    "name": "Hot Chocolate",
+    "file": "Signal Café Hot Chocolate Delight.png",
+    "slugs": [
+      "hot-chocolate"
+    ]
+  },
+  {
+    "name": "Hot Matcha",
+    "file": "Signal Café Matcha Latte Delight.png",
+    "slugs": [
+      "hot-matcha"
+    ]
+  },
+  {
+    "name": "Hot Mocha",
+    "file": "Signal Café Mocha with Latte Art.png",
+    "slugs": [
+      "hot-mocha"
+    ]
+  },
+  {
+    "name": "Hot Latte",
+    "file": "Signal Café Latte with Rosette Art.png",
+    "slugs": [
+      "latte",
+      "hot-latte"
+    ]
+  },
+  {
+    "name": "Hot Cappuccino",
+    "file": "Signal Café Cappuccino Spotlight.png",
+    "slugs": [
+      "cappuccino",
+      "hot-cappuccino"
+    ]
+  },
+  {
+    "name": "Blueberry Soda",
+    "file": "Blueberry Soda Signal Café Product Shot.png",
+    "slugs": [
+      "blueberry-soda"
+    ]
+  },
+  {
+    "name": "Passion Soda",
+    "file": "Passion Fruit Soda Signal Café.png",
+    "slugs": [
+      "passion-soda"
+    ]
+  },
+  {
+    "name": "Iced latte",
+    "file": "Signal Café Iced Coffee Cup.png",
+    "slugs": [
+      "iced-latte"
+    ]
+  },
+  {
+    "name": "Cafe Khmer",
+    "file": "Signal Café Iced Coffee Product Shot.png",
+    "slugs": [
+      "cafe-khmer",
+      "iced-coffee"
+    ]
+  },
+  {
+    "name": "Iced americano",
+    "file": "Iced Americano Signal Café Cup.png",
+    "slugs": [
+      "iced-americano"
+    ]
+  },
+  {
+    "name": "Iced mocha",
+    "file": "Iced Mocha with Signal Café Branding.png",
+    "slugs": [
+      "iced-mocha",
+      "mocha"
+    ]
+  },
+  {
+    "name": "Matcha latte",
+    "file": "Iced_Matcha_Latte_Café_Cup.png",
+    "slugs": [
+      "matcha-latte",
+      "iced-matcha-latte"
+    ]
+  },
+  {
+    "name": "Oreo matcha latte",
+    "file": "Layered_Matcha_Oreo_Drink_Cup.png",
+    "slugs": [
+      "oreo-matcha-latte"
+    ]
+  },
+  {
+    "name": "Strawberry matcha latte",
+    "file": "Strawberry_Matcha_Signal_Café_Iced_Drink.png",
+    "slugs": [
+      "strawberry-matcha-latte"
+    ]
+  },
+  {
+    "name": "Strawberry milk",
+    "file": "Strawberry_Milk_Drink.png",
+    "slugs": [
+      "strawberry-milk"
+    ]
+  },
+  {
+    "name": "Passion milk",
+    "file": "Signal Café Passion Fruit Milk Drink.png",
+    "slugs": [
+      "passion-milk",
+      "passion-fruit-milk"
+    ]
+  },
+  {
+    "name": "Strawberry soda",
+    "file": "Signal Café Pink Sparkling Drink.png",
+    "slugs": [
+      "strawberry-soda",
+      "blue-strawberry-soda"
+    ]
+  },
+  {
+    "name": "Green tea",
+    "file": "Signal Café Iced Green Tea.png",
+    "slugs": [
+      "green-tea",
+      "iced-green-tea"
+    ]
+  },
+  {
+    "name": "Lemon tea",
+    "file": "Signal_Café_Iced_Lemon_Tea.png",
+    "slugs": [
+      "lemon-tea",
+      "iced-lemon-tea"
+    ]
+  },
+  {
+    "name": "Passion tea",
+    "file": "Passion_Fruit_Iced_Tea_Cup.png",
+    "slugs": [
+      "passion-tea",
+      "passion-fruit-tea"
+    ]
+  },
+  {
+    "name": "Chocolate milk",
+    "file": "Iced_Chocolate_Signal_Café_Cup.png",
+    "slugs": [
+      "chocolate-milk",
+      "iced-chocolate"
+    ]
+  },
+  {
+    "name": "Strawberry smoothie",
+    "file": "Strawberry_Smoothie_Signal_Café.png",
+    "slugs": [
+      "strawberry-smoothie",
+      "blue-strawberry-smoothie"
+    ]
+  },
+  {
+    "name": "Blueberry smoothie",
+    "file": "Blueberry Smoothie Signal Café Advertisement.png",
+    "slugs": [
+      "blueberry-smoothie",
+      "blue-smoothie"
+    ]
+  },
+  {
+    "name": "Chocolate frappe",
+    "file": "Signal Café Chocolate Frappe.png",
+    "slugs": [
+      "chocolate-frappe"
+    ]
+  },
+  {
+    "name": "Passion frappe",
+    "file": "Passion Fruit Frappe with Fresh Garnish.png",
+    "slugs": [
+      "passion-frappe",
+      "passion-fruit-frappe"
+    ]
+  },
+  {
+    "name": "Caramel frappe",
+    "file": "Signal Café Caramel Frappe.png",
+    "slugs": [
+      "caramel-frappe"
+    ]
+  },
+  {
+    "name": "Iced tea",
+    "file": "Signal_Cafe_Iced_Tea_Cup.png",
+    "slugs": [
+      "iced-tea",
+      "black-tea"
+    ]
+  },
+  {
+    "name": "Honey tea",
+    "file": "Signal Café Honey Tea with Dipper.png",
+    "slugs": [
+      "honey-tea",
+      "honey-black-tea"
+    ]
+  },
+  {
+    "name": "Jasmine tea",
+    "file": "Signal_Café_Iced_Jasmine_Tea.png",
+    "slugs": [
+      "jasmine-tea",
+      "iced-jasmine-tea"
+    ]
+  },
+  {
+    "name": "Jasmine milk tea",
+    "file": "Signal_Café_Iced_Jasmine_Milk_Tea.png",
+    "slugs": [
+      "jasmine-milk-tea",
+      "iced-jasmine-milk-tea"
+    ]
+  },
+  {
+    "name": "Milk tea",
+    "file": "Signal_Café_Iced_Milk_Tea_Cup.png",
+    "slugs": [
+      "milk-tea",
+      "iced-milk-tea"
+    ]
+  },
+  {
+    "name": "Strawberry jasmine tea",
+    "file": "Signal_Café_Strawberry_Jasmine_Iced_Tea.png",
+    "slugs": [
+      "strawberry-jasmine-tea",
+      "strawberry-jasmine-iced-tea",
+      "strawberry-blueberry-jasmine-tea"
+    ]
+  }
+]
